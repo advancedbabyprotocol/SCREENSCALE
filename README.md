@@ -28,6 +28,7 @@ Inspired by precision tools and visual design needs, ScreenScale offers real-tim
    ```sh
    python Scalemain.py
    ```
+   
 
 ## Use Cases
 - UI/UX design alignment
